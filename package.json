@@ -1,0 +1,15 @@
+{
+  "name": "sub-beam-2d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "직접강성법 기반 2D 연속보·부분골조 해석 도구 (SFD·BMD·처짐, A4 PDF 보고서)",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
